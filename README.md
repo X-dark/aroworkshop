@@ -1,6 +1,6 @@
 ![Build and deploy](https://github.com/microsoft/aroworkshop/workflows/Build%20and%20deploy/badge.svg)
 
-# aroworkshop.io
+# aroworkshop.io fork
 
 This is the repository for the Azure Red Hat OpenShift Workshop website.
 
